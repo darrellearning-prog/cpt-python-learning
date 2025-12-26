@@ -1,0 +1,62 @@
+Data types
+
+string
+int
+float
+
+example
+
+name = "Beniton"
+city = 'Chennai'
+city1 = "Chennai" 
+city2 = """Chennai"""
+
+int example
+
+age = 5
+weight = 50
+quantity = 10
+
+
+float
+
+pivalue =3.14
+
+
+Variables
+
+name 
+Name
+
+both are different Variables
+
+Rules
+1. alpha,number and _ (underscore)
+2. should not start with number
+3. Both upper and lower case alphabets are used but not treated as same
+4. First letter can be _ ex _name is a valid Variables
+5. Variable creation happen when they are assigned with a value. Ex name = "Beniton" ( mean name variable is assigned with value Beniton)
+6. Keywords should not be used as variables For example print is a keyword we cannot use print as a variable
+
+Valid variables
+
+a0 
+A9
+_a9
+
+Invalid variables
+9a
+a.A ( period is not allowed)
+print ( Keywords are not allowed)
+
+Assigning multiple values
+
+Lets say we assign name, age and location
+
+_name,_age,_location = "Darrel",17,"Chennai"
+
+Assigning same values to multiple variables
+
+Lets say a b and c should be assigned same value 10
+
+a=b=c=10

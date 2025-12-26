@@ -1,0 +1,7 @@
+Basic functions
+
+input()
+str()
+int()
+float()
+print()
